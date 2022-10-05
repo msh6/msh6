@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msh6
-- 👀 I’m interested in Game DEvelopement.
+- 👀 I’m interested in Game Developement.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at mosoha@protonmail.com
