@@ -6,8 +6,7 @@
 
 Languages and Tools:
 
-![<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-]
+![<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />]
 
 <!---
 msh6/msh6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
