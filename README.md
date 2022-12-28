@@ -6,7 +6,7 @@
 
 Languages and Tools:
 
-<i class="devicon-cplusplus-plain colored"></i>
+![This is an image](<i class="devicon-cplusplus-plain colored"></i>)
 
 <!---
 msh6/msh6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
