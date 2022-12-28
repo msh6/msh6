@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @msh6
-- 👀 I’m interested in Game Developement.
-- 🌱 I’m currently learning C++.
+- 👋 Hi, I’m **Md Sohail Hashmi**.
+- 👀 I’m interested in Data Science & Software Developement.
+- 🌱 I’m currently learning ML anbd Deep Learning.
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at mosoha@protonmail.com
+- 📫 Reach me at sohailhhh585@gmail.com
 
-Languages and Tools:
+LinkedIn - http://linkedin.com/in/msh6
 
-(<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />)
-
-
+🛠  Languages and Tools :
+**C++, Python, SQLm, MySQL, NumPy, Pandas, Matplotlib, TensorFlow, Visual Studio, Code::Blocks & Jupyter. **
 
 <!---
 msh6/msh6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
