@@ -8,7 +8,7 @@ LinkedIn - http://linkedin.com/in/msh6
 
 🛠  Languages and Tools :
 
-**C++, Python, SQLm, MySQL, NumPy, Pandas, Matplotlib, TensorFlow, Visual Studio, Code::Blocks & Jupyter.**
+**C++, Python, SQL, MySQL, NumPy, Pandas, Matplotlib, TensorFlow, Visual Studio, Code::Blocks & Jupyter.**
 
 <!---
 msh6/msh6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
