@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Md Sohail Hashmi**.
-- 👀 I’m interested in Data Science & Software Developement.
-- 🌱 I’m currently learning ML anbd Deep Learning.
+- 👀 I’m interested in Data Science & Game Developement.
+- 🌱 I’m currently learning and working on Data Science and more advance Python Projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at sohailhhh585@gmail.com
 
